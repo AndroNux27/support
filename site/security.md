@@ -97,7 +97,7 @@ out) /v4/raw/2016-01-01/4434BC2A2EC4FCA57F77B473D83F928C/9ac8f27fb300b8ab415b31e
 ```
 
 ## Is my Team's data isolated from other Teams?
-No, Teams/Repos/Users data is stored in one or more databases, all properly of Codecov, but not
+No, Teams/Repos/Users data is stored in one or more databases, all property of Codecov, but not
 isolated from other Teams/Repos/Users utilizing Codecov services.
 
 ## How do I add collaborators/members to my private repository?

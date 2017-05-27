@@ -1,8 +1,8 @@
 # Codecov Privacy Policy
 
-> v2.0.1 - effective April 24th, 2016 - [History on GitHub](https://github.com/codecov/support/blob/master/site/privacy.md)
+> v2.0.2 - effective May 27th, 2017 - [History on GitHub](https://github.com/codecov/support/blob/master/site/privacy.md)
 
-Thank you for visiting Codecov.io (our “Site”). Whether you are checking out our offerings or actively using our services (collectively, the “Services”), your privacy is important to us. As such, we provide this privacy policy (“Privacy Policy”) to describe our online information practice and the choices you can make about the way your information is collected and used by us.
+Thank you for visiting Codecov.io (our “Site”). Whether you are checking out our offerings or actively using our services (collectively, the “Services”), your privacy is important to us. As such, we provide this privacy policy (“Privacy Policy”) to describe our online information practices and the choices you can make about the way your information is collected and used by us.
 
 ## The Information We Collect
 When you view our Site or engage with our services (the “Services”), we receive certain information, such as personal information you provide to us, information that is passively or automatically collected from you, such as anonymous information collected from your browser or device, and information to support our analysis of how you use the Services (collectively, the “Information”).
@@ -48,7 +48,8 @@ We may use “cookies” or similar technologies to associate certain of the Inf
 2. In response to legal process, for example, in response to a court order or a subpoena, a law enforcement or government agency's request or similar request.
 3. With third parties in order to investigate, prevent, or take action (in our sole discretion) regarding potentially illegal activities, suspected fraud, situations involving potential threats to any person, us, or the Services, or violations of our policies to verify or enforce compliance with the policies governing our Services.
 4. We may transfer some or all of your Information if we, or one of our business units, undergoes a business transition, like a merger, acquisition by another company, or sale of all or part of our assets, or if a substantial portion of our or of a business unit’s assets is sold or merged in this way. If we believe a transfer results in a material change in the use of the Information we've collected or received about you, you will be given the opportunity to opt out of the transfer.
-IV. Access To Your Information
+
+## Access To Your Information
 Access to certain personal Information that is collected from our Services and that we maintain may be available to you. For example, if you created a password-protected account within our Service, you can access that account to review the Information you provided.
 You may also send an e-mail to the following e-mail address support@codecov.io to gain access to or to correct your personal Information. Please include your registration information for such service such as first name, last name and e-mail address in the request.
 If for some reason you wish to remove a repository, you may do so. Please contact support at support@codecov.io to remove all reports and data collected on a repository. On the off chance that you might want to terminate your account, please contact staff at support@codecov.io to erase your account data.

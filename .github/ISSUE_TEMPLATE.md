@@ -1,5 +1,5 @@
-We look forward to helping you. At this time GitHub issues are prioritized last, please use one of the chat support channels to get support.
+**Please read** If your issue is concerning one project please contact our team through our In-App messagner or [Slack](http://slack.codecov.io).
 
-https://codecov.io/support
+For fastest response please contact us through our **In-App messagner** or **[Slack](http://slack.codecov.io).**
 
-Proceed to submit an issue here for feature requests. Thank you
+These issues are **primarily** used for feature requests.
